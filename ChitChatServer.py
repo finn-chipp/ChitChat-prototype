@@ -1,3 +1,4 @@
+# Edited with GNU Nano so the tabbing's pretty strange on this one:
 import socket, threading, os
 
 server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
